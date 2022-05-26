@@ -1,4 +1,4 @@
 resources:
-  - mq-infra
-  - mq-metric-samples
-  - mq-spring-app
+# - mq-infra
+# - mq-metric-samples
+# - mq-spring-app
